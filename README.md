@@ -1,4 +1,4 @@
-![Screenshot_2022-10-16_06_01_33](https://user-images.githubusercontent.com/112537894/196029379-9e82b471-17ac-4123-9f78-a5c31958fa79.png)
+![IMG_3972](https://user-images.githubusercontent.com/112537894/196029478-f1cff2a6-334a-4160-bfd8-eec0204b1b65.png)
 
 
 WELCOME TO DNSEEK
