@@ -1,3 +1,6 @@
+![Screenshot_2022-10-16_06_01_33](https://user-images.githubusercontent.com/112537894/196029379-9e82b471-17ac-4123-9f78-a5c31958fa79.png)
+
+
 WELCOME TO DNSEEK
 =========================
 dnseek is a reverse dns lookup made in bash. It uses the "dig" command along with it's various options to retrieve
