@@ -27,7 +27,7 @@ echo   "  d:::::::::ddd::::d n::::n    n::::n s:::::::::::ss    ee:::::::::::::e
 echo
 echo                                                     
          PS3='root@dnseek~:'
-         options=("Check DNS A Record" "Check DNS PTR Record" "Check DNS MX Record" "Update Tool")
+         options=("Check DNS A Record" "Check DNS PTR Record" "Check DNS MX Record" "Check DNS NS Record" "Update Tool")
          select opt in "${options[@]}"
          do
          case $opt in
@@ -46,6 +46,12 @@ echo
          "Check DNS MX Record")
          command clear
          command dig www.example.com mx
+         echo 
+         echo "Press Ctrl + C"
+         ;;
+         "Check DNS NS Record")
+         command clear
+         command dig www.example.com ns
          echo 
          echo "Press Ctrl + C"
          ;;
